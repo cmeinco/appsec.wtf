@@ -1,44 +1,33 @@
 ---
 layout: post
-title:  "Getting started with Application Security"
-date:   2019-03-11 20:00:00
+title: "Getting started with Application Security"
+date:   2019-03-11 20:00:00 +0500
+description: Looking to learn where to start? What topics do you want to deep dive into?  Follow the white rabbit. # Add post description (optional)
+img: andy-brunner-21066-unsplash.jpg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [Beginner]
 author: Trent Speckhart
-permalink: blog/getting-started.html
 ---
-## Welcome to GitHub Pages
+Looking to learn where to start? What topics do you want to deep dive into?  Follow the white rabbit.
 
-You can use the [editor on GitHub](https://github.com/cmeinco/appsec.wtf/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Getting started with Application Security
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Welcome to the greatest industry and best job that doesn't need to exist.  You'll soon get used to my satire.  I'll continue to build out this post as I find time to update it, drop me a line with what you'd like to see here or any deep dive posts you'd like to see.
 
-### Markdown
+### Awesome Lists
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* [GitHub #application-security](https://github.com/topics/application-security)
+* [GitHub awesome-appsec](https://github.com/search?q=awesome-appsec)
 
-```markdown
-Syntax highlighted code block
+### OWASP
 
-# Header 1
-## Header 2
-### Header 3
+* [OWASP](https://www.owasp.org)
 
-- Bulleted
-- List
+### Conferences
 
-1. Numbered
-2. List
+* [Thotcon](https://thotcon.org/)
+* [AppSec USA](https://appsecusa.org/)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cmeinco/appsec.wtf/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Other References and Credit
+Photo by <a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px" href="https://unsplash.com/@andy_brunner?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Andy Brunner"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-2px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M10 9V0h12v9H10zm12 5h10v18H0V14h10v9h12v-9z"></path></svg></span><span style="display:inline-block;padding:2px 3px">Andy Brunner</span></a> on Unsplash
