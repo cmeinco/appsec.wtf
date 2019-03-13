@@ -1,1 +1,39 @@
-theme: jekyll-theme-architect
+remote_theme: cmeinco/flexible-jekyll
+#remote_theme: cmeinco/flexible-jekyll
+
+title: appsec.wtf
+description: > # this means to ignore newlines until "baseurl:"
+  This is coming soon.
+permalink: '/blog/:title/'
+baseurl: "" # the subpath of your site, e.g. /blog
+#url: "https://localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://appsec.wtf"
+site-twitter: appsecwtf #if your site has a twitter account, enter it here
+
+# Author Settings
+author: appsec.wtf # add your name
+author-img: appsecwtf.jpg # add your photo
+about-author: coming soon. # add description
+social-twitter: appsecwtf # add your Twitter handle
+social-facebook: # add your Facebook handle
+social-github: cmeinco # add your Github handle
+social-linkedin: # add your Linkedin handle
+social-email: trent@appsec.wtf # add your Email address
+
+# Disqus
+discus-identifier: # add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+
+paginate: 8
+paginate_path: "/page/:num"
+
+exclude: ["Gemfile*","README.md","node_modules", "gulpfile.js", "package.json", "yarn.lock"]
