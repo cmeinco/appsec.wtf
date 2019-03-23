@@ -39,7 +39,7 @@ Never stop learning.
 
 1. https://softwareengineering.stackexchange.com/questions/177342/how-to-implement-a-safe-password-history?utm_source=twitterfeed&utm_medium=twitter
 2. https://www.troyhunt.com/should-websites-be-required-to-publicly/
-3. https://www.owasp.org/index.php/Password_Storage_Cheat_Sheet
+3. https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Password_Storage_Cheat_Sheet.md
 4. https://nakedsecurity.sophos.com/2013/11/20/serious-security-how-to-store-your-users-passwords-safely/
 
 
